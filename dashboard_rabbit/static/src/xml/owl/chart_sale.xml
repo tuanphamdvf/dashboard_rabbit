@@ -59,7 +59,7 @@
                 <div class="eight">
                     <h6>Revenue </h6>
                 </div>
-                <div class="chart-container">
+                <div class="chart-container" style="height : 500px">
                     <canvas t-ref="chart1"></canvas>
                 </div>
 
@@ -194,20 +194,21 @@
                     <div class="eight">
                         <h6>Product </h6>
                     </div>
-                    <div style="height : 400px ;" class="mt-5 ">
+                    <div style="height : 400px ; width:400px" class="mt-5 chart-container ">
                         <canvas t-ref="chart2"></canvas>
                     </div>
 
                 </div>
-                <div class="justify-content-center d-flex ml-5 pl-5  relative ">
+                <div class="justify-content-center d-flex ml-5 pl-5  relative col-7">
                     <div class="eight">
                         <h6>Staff</h6>
                     </div>
-                    <div style="height : 500px; " class="mt-5 ml-5">
+                    <div style="height : 500px" class=" mt-5 w-100 ml-5">
                         <canvas t-ref="chart3"></canvas>
                     </div>
                 </div>
             </div>
+
 
 
         </div>
