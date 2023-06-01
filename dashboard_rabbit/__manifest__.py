@@ -4,7 +4,7 @@
     "summary": "The dashboard includes a revenue chart, a profit chart, an order count chart, a product-wise revenue chart",
     'description': """The dashboard includes a revenue chart, a profit chart, an order count chart, a product-wise revenue chart, an employee-wise revenue chart, total revenue, cash revenue, bank transfer revenue, purchasing expenses, and visually complete customer statistics.
     """,
-    "price": "49",
+    "price": "20",
     "currency": "EUR",
     'license': 'GPL-3',
     'author': "TTN SOFTWARE",
